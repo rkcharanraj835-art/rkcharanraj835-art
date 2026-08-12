@@ -1,37 +1,33 @@
-# Hey, I'm Charan 👋
+# 👋 Hey, I'm Charan Raj R K
 
 ### IT Student • Developer • Builder
 
-I enjoy learning by building things.
+I learn by building.
 
-From web applications and games to cybersecurity experiments and AI development, I'm constantly exploring new technologies and turning ideas into working projects.
+I enjoy turning ideas into working projects and exploring how software works — from web applications and games to cybersecurity, automation, and AI.
 
-🌐 **Portfolio:** [charanrajrk.vercel.app](https://charanrajrk.vercel.app/)
-
----
-
-## 🚀 What I'm Building
-
-I'm currently exploring and building projects across:
-
-- 🌐 Web Development
-- 🎮 Game Development
-- 🔐 Cybersecurity
-- 🤖 AI Development
-- ⚙️ Automation
-- 🧩 Software Development
-
-I learn best by taking an idea, figuring out how it works, and building it myself.
+🌐 **[Visit my Portfolio](https://charanrajrk.vercel.app/)**
 
 ---
 
-## 🛠️ Technologies I Work With
+## 🚀 What I Do
+
+* 🌐 Build web applications
+* 🎮 Explore game development
+* 🔐 Learn cybersecurity
+* 🤖 Explore AI development
+* ⚙️ Experiment with automation
+* 🧩 Build projects to understand how things work
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
 
 `C` `C++` `C#` `Java` `Python` `JavaScript` `PHP`
 
-### Web Development
+### Web
 
 `HTML` `CSS` `JavaScript` `React` `XML`
 
@@ -43,7 +39,7 @@ I learn best by taking an idea, figuring out how it works, and building it mysel
 
 `Pandas` `NumPy`
 
-### Tools & Platforms
+### Tools
 
 `Git` `GitHub` `Docker` `VirtualBox`
 
@@ -53,19 +49,19 @@ I learn best by taking an idea, figuring out how it works, and building it mysel
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Featured Projects
 
 ### ☕ Mamak Cafe
 
 A modern restaurant website built with React and Tailwind CSS.
 
-🌐 [Live Project](https://mamak-cafe.vercel.app/)
+🌐 **[Live Project](https://mamak-cafe.vercel.app/)**
 
 ---
 
 ### 🧑‍💻 MigrantCarePlus
 
-A web application built with Flask, MySQL and JavaScript.
+A web application built with Flask, MySQL, HTML, CSS and JavaScript.
 
 ---
 
@@ -77,7 +73,7 @@ A 2D game developed using Unity and C#.
 
 ### 🤖 Game Automation
 
-An automation project exploring repetitive gameplay actions and automation techniques.
+An automation project exploring repetitive gameplay actions and automation concepts.
 
 ---
 
@@ -85,15 +81,64 @@ An automation project exploring repetitive gameplay actions and automation techn
 
 A community-focused web platform.
 
-🌐 [Live Project](https://sqs-community-hub.vercel.app/)
+🌐 **[Live Project](https://sqs-community-hub.vercel.app/)**
 
 ---
 
-## 📈 My Journey
+## 🧭 My Journey
 
 ```text
-2024  → Started coding
-2025  → Web Development + Unity
-2025  → Cybersecurity
-2026  → AI Development
-2026  → Building serious projects
+2024  ── Started Coding
+          │
+2025  ── Web Development
+          │
+2025  ── Unity & Game Development
+          │
+2025  ── Cybersecurity
+          │
+2026  ── AI Development
+          │
+2026  ── Building Serious Projects
+```
+
+---
+
+## 🎯 Currently Exploring
+
+```text
+Web Development
+        ↓
+Cybersecurity
+        ↓
+AI Development
+        ↓
+AI + Cybersecurity
+```
+
+I'm interested in understanding how these areas can work together.
+
+---
+
+## 🌐 Find Me
+
+🌐 **Portfolio**
+https://charanrajrk.vercel.app/
+
+💻 **GitHub**
+https://github.com/rkcharanraj835-art
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/charan-raj-r-k-b5aa69328/
+
+---
+
+## ⚡ Philosophy
+
+> I don't want to just learn technologies.
+> I want to understand them by building with them.
+
+---
+
+### Thanks for stopping by 👋
+
+⭐ Explore my repositories and projects.
