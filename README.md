@@ -151,6 +151,31 @@ A community-focused web platform.
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rkcharanraj835-art&show_icons=true&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=a1a1aa&icon_color=a78bfa"
+    alt="Charan's GitHub Stats"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkcharanraj835-art&layout=compact&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=a1a1aa"
+    alt="Charan's Most Used Languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=rkcharanraj835-art&theme=dark&hide_border=true"
+    alt="Charan's GitHub Contribution Streak"
+  />
+</p>
+
+---
+
 ## 🧭 My Journey
 
 ```text
