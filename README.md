@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./banner.png" alt="Charan - Developer Profile Banner" width="100%" />
+  <img
+    src="./banner.png"
+    alt="Charan - Developer Profile Banner"
+    width="100%"
+  />
 </p>
 
 # 👋 Hey, I'm Charan Raj R K
