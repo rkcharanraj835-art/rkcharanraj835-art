@@ -6,54 +6,112 @@
   />
 </p>
 
-# 👋 Hey, I'm Charan Raj R K
+<h1 align="center">👋 Hey, I'm Charan Raj R K</h1>
 
-### IT Student • Developer • Builder
+<h3 align="center">
+  IT Student • Developer • Builder
+</h3>
 
-I learn by building.
+<p align="center">
+  I learn by building.
+</p>
 
-I enjoy turning ideas into working projects and exploring how software works — from web applications and games to cybersecurity, automation, and AI.
+<p align="center">
+  I enjoy turning ideas into working projects and exploring how software works —
+  from web applications and games to cybersecurity, automation, and AI.
+</p>
 
-🌐 **[Visit my Portfolio](https://charanrajrk.vercel.app/)**
+<p align="center">
+  🌐 <a href="https://charanrajrk.vercel.app/">Visit my Portfolio</a>
+</p>
 
 ---
 
 ## 🚀 What I Do
 
-* 🌐 Build web applications
-* 🎮 Explore game development
-* 🔐 Learn cybersecurity
-* 🤖 Explore AI development
-* ⚙️ Experiment with automation
-* 🧩 Build projects to understand how things work
+- 🌐 Build web applications
+- 🎮 Explore game development
+- 🔐 Learn cybersecurity
+- 🤖 Explore AI development
+- ⚙️ Experiment with automation
+- 🧩 Build projects to understand how things work
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">⚡ Tech Stack</h2>
 
-### Languages
+<p align="center">
+  <i>Technologies I use to build, experiment, and learn.</i>
+</p>
 
-`C` `C++` `C#` `Java` `Python` `JavaScript` `PHP`
+<br />
 
-### Web
+<h3 align="center">💻 Languages</h3>
 
-`HTML` `CSS` `JavaScript` `React` `XML`
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,php"
+    alt="Languages"
+  />
+</p>
 
-### Databases & Backend
+<h3 align="center">🌐 Web Development</h3>
 
-`MySQL` `Firebase` `Supabase`
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,react"
+    alt="Web Development"
+  />
+</p>
 
-### Data & AI
+<h3 align="center">🗄️ Databases & Backend</h3>
 
-`Pandas` `NumPy`
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=mysql,firebase,supabase"
+    alt="Databases and Backend"
+  />
+</p>
 
-### Tools
+<h3 align="center">📊 Data & Libraries</h3>
 
-`Git` `GitHub` `Docker` `VirtualBox`
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python"
+    alt="Python"
+  />
+</p>
 
-### Cybersecurity
+<p align="center">
+  <code>Pandas</code>
+  &nbsp;•&nbsp;
+  <code>NumPy</code>
+</p>
 
-`Kali Linux` `TryHackMe` `Hack The Box`
+<h3 align="center">🧩 Other Technologies</h3>
+
+<p align="center">
+  <code>XML</code>
+</p>
+
+<h3 align="center">🛠️ Tools</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux"
+    alt="Tools"
+  />
+</p>
+
+<h3 align="center">🔐 Cybersecurity</h3>
+
+<p align="center">
+  <code>Kali Linux</code>
+  &nbsp;•&nbsp;
+  <code>TryHackMe</code>
+  &nbsp;•&nbsp;
+  <code>Hack The Box</code>
+</p>
 
 ---
 
@@ -107,46 +165,3 @@ A community-focused web platform.
 2026  ── AI Development
           │
 2026  ── Building Serious Projects
-```
-
----
-
-## 🎯 Currently Exploring
-
-```text
-Web Development
-        ↓
-Cybersecurity
-        ↓
-AI Development
-        ↓
-AI + Cybersecurity
-```
-
-I'm interested in understanding how these areas can work together.
-
----
-
-## 🌐 Find Me
-
-🌐 **Portfolio**
-https://charanrajrk.vercel.app/
-
-💻 **GitHub**
-https://github.com/rkcharanraj835-art
-
-💼 **LinkedIn**
-https://www.linkedin.com/in/charan-raj-r-k-b5aa69328/
-
----
-
-## ⚡ Philosophy
-
-> I don't want to just learn technologies.
-> I want to understand them by building with them.
-
----
-
-### Thanks for stopping by 👋
-
-⭐ Explore my repositories and projects.
