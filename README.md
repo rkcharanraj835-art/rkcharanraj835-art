@@ -169,13 +169,6 @@ A community-focused web platform.
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=rkcharanraj835-art&theme=dark&hide_border=true"
-    alt="Charan's GitHub Contribution Streak"
-  />
-</p>
-
 ## 🧭 My Journey
 
 ```text
